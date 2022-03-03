@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Stock_Watch</string>
+    <string name="add_stock">add stock</string>
+    <string name="stock_name">stock name</string>
+    <string name="price">Price</string>
+    <string name="percent">percent</string>
+    <string name="stock">STOCK</string>
+    <string name="change">change</string>
+    <string name="file_name">Stocks.json</string>
+    <string name="no_file">No JSON Product File Present</string>
+    <string name="saved">Stock Saved!</string>
+    <string name="connected">You ARE Connected to the Internet!</string>
+    <string name="not_connected">You are NOT Connected to the Internet!</string>
+</resources>
